@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.class
 
 # Package Files #
@@ -5,3 +6,7 @@
 *.war
 *.ear
 /bin
+=======
+bin
+.class
+>>>>>>> 375a922dd9d4014b95da84cb1f90839d8c2efc94
